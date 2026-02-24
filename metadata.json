@@ -1,0 +1,7 @@
+{
+  "name": "GridGuard: Transmission Line Risk Auditor",
+  "description": "A specialized tool for auditing vegetation hazards along power transmission rights-of-way using satellite data, NDVI analysis, and SAR-derived tree height modeling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
